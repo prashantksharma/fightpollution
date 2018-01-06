@@ -15,5 +15,5 @@ Currently, both of us are masters student in Computer Science Department of IIT 
 
 ## Experiment 1
 
-**Objective** Effect of planting tress and plants in home on the surrounding. What will happen if every house in the cities have a garden (or Terrace Garden ).
+**Objective** Effect of planting tress and plants in home on the surrounding. What will happen if every house in the cities have a garden (or Terrace Garden ) ?
 
