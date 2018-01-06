@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Fight Pollution - with common sense
 
-You can use the [editor on GitHub](https://github.com/prashantksharma/fightpollution/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The goal of this project is to explore **simple** ways to fight pollution which are **scalable** using the common sense approach as oppossed to using fancy and/or expensive techonology.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Why we are doing this ?
 
-### Markdown
+Inspired by the [Ice Stupa](https://www.youtube.com/watch?v=7dChiLpYifs) and other projects by [Sonam Wangchuk](https://en.wikipedia.org/wiki/Sonam_Wangchuk_(engineer)) which are so impactful but at the same time so simple in the approach towards solving pressing issues. We decided to find simple but effective solution to the problem of pollution in cities (eg. Delhi).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Who are we ?
+We are
+* [Prashant K. Sharma](http://prashantksharma.com)
+* [Suraj Singh](https://www.cse.iitb.ac.in/~surajsingh/)
 
-```markdown
-Syntax highlighted code block
+Currently, both of us are masters student in Computer Science Department of IIT Bombay
 
-# Header 1
-## Header 2
-### Header 3
+## Experiment 1
 
-- Bulleted
-- List
+**Objective** Effect of planting tress and plants in home on the surrounding. What will happen if every house in the cities have a garden (or Terrace Garden ).
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prashantksharma/fightpollution/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
