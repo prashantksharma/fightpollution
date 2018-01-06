@@ -17,3 +17,8 @@ Currently, both of us are masters student in Computer Science Department of IIT 
 
 **Objective** Effect of having a garden in home on the surrounding. What will happen if every house in the cities have a garden (or Terrace Garden ) ?
 
+**Articles**
+1. [Forest citites by The Guardian](https://www.theguardian.com/cities/2017/feb/17/forest-cities-radical-plan-china-air-pollution-stefano-boeri)
+2. [Benifits of House Plants](https://wiki.nurserylive.com/t/keep-planting-to-fight-air-pollution/2132)
+3. [Green Gardein = Better Environment + Lower Bills](http://theconversation.com/green-your-garden-help-the-environment-and-lower-your-bills-27090)
+4. [Your Garden is an ecosystem](http://theconversation.com/birds-bees-and-bugs-your-garden-is-an-ecosystem-and-it-needs-looking-after-65226)
