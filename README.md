@@ -17,6 +17,9 @@ Currently, both of us are masters student in Computer Science Department of IIT 
 
 **Objective** Effect of having a garden in home on the surrounding. What will happen if every house in the cities have a garden (or Terrace Garden ) ?
 
+**Proof Of Concept**
+1. Shubhendu Sharma [Grow Forest In backyard](https://www.ted.com/talks/shubhendu_sharma_how_to_grow_a_forest_in_your_backyard)
+
 **Articles**
 1. [Forest citites by The Guardian](https://www.theguardian.com/cities/2017/feb/17/forest-cities-radical-plan-china-air-pollution-stefano-boeri)
 2. [Benifits of House Plants](https://wiki.nurserylive.com/t/keep-planting-to-fight-air-pollution/2132)
