@@ -26,3 +26,9 @@ Currently, both of us are masters student in Computer Science Department of IIT 
 3. [Green Gardein = Better Environment + Lower Bills](http://theconversation.com/green-your-garden-help-the-environment-and-lower-your-bills-27090)
 4. [Your Garden is an ecosystem](http://theconversation.com/birds-bees-and-bugs-your-garden-is-an-ecosystem-and-it-needs-looking-after-65226)
 5. [Hospital garden = Helps patients heal by Scientific American](https://www.scientificamerican.com/article/nature-that-nurtures/)
+
+## Experiment 2
+
+**Objective** Becoming Carbon Negative.Is it possible ?
+**Proof of concept**
+1. [Bhutan](https://www.youtube.com/watch?v=7Lc_dlVrg5M)
